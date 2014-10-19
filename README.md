@@ -6,7 +6,7 @@ by DemoHn
 2014.10.19
 
 ## Issues
-所有的讨论都在issue里面[issues](https://github.com/cc98-frontend-development/documents/issues)¾Í¿ÉÒÔ¿´µ½¡£
+所有的讨论都在issue里面[issues](https://github.com/cc98-frontend-development/documents/issues)
 
 # Issue 1-5
 
