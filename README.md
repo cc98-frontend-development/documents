@@ -1,29 +1,29 @@
-### documents µ¼¶Á
+### documents å¯¼è¯»
 
 by DemoHn
 
-¼×ÎçÄê¾ÅÔÂ¹ïº¥
+ç”²åˆå¹´ä¹æœˆå·²äº¥
 2014.10.19
 
 ## Issues
-Ä¿Ç°ËùÓĞµÄÌÖÂÛÄÚÈİ¶¼ÔÚissueÉÏÃæ¡£µã¿ª[issues](https://github.com/cc98-frontend-development/documents/issues)¾Í¿ÉÒÔ¿´µ½¡£
+æ‰€æœ‰çš„è®¨è®ºéƒ½åœ¨issueé‡Œé¢[issues](https://github.com/cc98-frontend-development/documents/issues)Â¾ÃÂ¿Ã‰Ã’Ã”Â¿Â´ÂµÂ½Â¡Â£
 
 # Issue 1-5
 
-ÓĞ¹ØĞÂ°æcc98µÄ×Ü¹æ»®¡£Éæ¼°µ½Õ½ÂÔµÈ´ó¿ò¼ÜÎÊÌâ¡£
+ä¸»è¦è®¨è®ºäº†cc98çš„å¤§æ¡†æ¶è®¾è®¡ã€‚
  
 # Issue 6-11
 
-ÌÖÂÛĞÂ°æUIÉè¼ÆµÄ²¼¾Ö¡£
-ÕâÒ»°æµÄUIÊÇ @ituotuo Éè¼ÆµÄ£¬ÔÚ´ËÌØ±ğ¸ĞĞ»ËûµÄĞÁÇÚ¹¤×÷£¡
+è®¨è®ºäº†ç›®å‰çš„UIè®¾è®¡å›¾ã€‚
+è¿™ä»½UIè®¾è®¡æ˜¯ç”± @ituotuo åšå‡ºæ¥çš„ã€‚è¿™é‡Œç‰¹åˆ«æ„Ÿè°¢ä»–çš„è¾›å‹¤åŠ³åŠ¨ï¼
 
-# ĞÂ°æUIÉè¼ÆÔ¤ÀÀ
-×¢£ºÄ¿Ç°ÎªÖ¹£¬ÕâĞ©Éè¼Æ¶¼ÊÇ²İ¸å¡£
+# UIè®¾è®¡é¢„è§ˆ
+æ³¨ï¼šç›®å‰çš„æ‰€æœ‰UIè®¾è®¡éƒ½æ˜¯å¤„äºè‰ç¨¿é˜¶æ®µã€‚
 
-[Ê×Ò³](https://github.com/cc98-frontend-development/documents/issues/6)
-[µÇÂ¼Ò³](https://github.com/cc98-frontend-development/documents/issues/7)
-[°æ¿éÁĞ±íÒ³](https://github.com/cc98-frontend-development/documents/issues/8)
-[ËÑË÷½á¹ûÒ³](https://github.com/cc98-frontend-development/documents/issues/9)
-[Ìí¼Ó¿ìËÙÈë¿Ú](https://github.com/cc98-frontend-development/documents/issues/10)
-[·¢²¼Ìû×Ó](https://github.com/cc98-frontend-development/documents/issues/11)
+[é¦–é¡µ](https://github.com/cc98-frontend-development/documents/issues/6)
+[ç™»é™†é¡µ](https://github.com/cc98-frontend-development/documents/issues/7)
+[æ¿å—åˆ—è¡¨é¡µ](https://github.com/cc98-frontend-development/documents/issues/8)
+[æœç´¢ç»“æœé¡µ](https://github.com/cc98-frontend-development/documents/issues/9)
+[æ·»åŠ å¿«é€Ÿå…¥å£](https://github.com/cc98-frontend-development/documents/issues/10)
+[å‘å¸ƒæ–°å¸–å­](https://github.com/cc98-frontend-development/documents/issues/11)
 
